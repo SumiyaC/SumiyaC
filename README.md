@@ -6,6 +6,7 @@
 
 - 🚀*Familiar with*: HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, Python, Java, Figma, Git, AI concepts, Agile methodology & MS Office tools. 
 - 🌱*Learning*: SQL, DevOps.
+- 👀*Interest*: Web development.
 - 🌐*Languages*: Bangla (Native), English (Fluent).  
  
 📫 **How to reach me:** 
