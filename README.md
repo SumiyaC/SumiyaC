@@ -1,11 +1,11 @@
 **Hi there** 👋
 ## I am **Sumiya Chowdhury**
 
-**A Bachelor student in IT at Centria University of Applied Sciences.**  
+**A Bachelor student in IT at Centria University of Applied Sciences, nearing graduation.**  
 *I enjoy problem-solving, have a strong passion for continuous learning, possess good listening and communication skills, and am welcoming towards new challenges.*  
 
 - 🚀*Familiar with*: HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, Python, Java, Figma, Git, AI concepts, Agile methodology & MS Office tools. 
-- 🌱*Learning*: SQL, DevOps.
+- 🌱*Learning*: SQL, DevOps, Docker.
 - 🌐*Languages*: Bangla (Native), English (Fluent).  
  
 📫 **How to reach me:** 
