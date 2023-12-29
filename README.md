@@ -1,11 +1,12 @@
 ### Hi there 👋
+I am **SumiyaC/SumiyaC**
 
-<!--
-**SumiyaC/SumiyaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a Bachelor student in IT, I am actively seeking opportunities for practical experience. I enjoy problem-solving, have a strong passion for continuous learning, possess good listening and communication skills, and am welcoming towards new challenges. I am ready to work as a committed individual whenever required.
 
-Here are some ideas to get you started:
-
-
+🚀- HTML, CSS, JavaScript, ReactJS, NodeJS, Python, Java, SQL, MongoDB, Figma, AI, MS Office
+- 🌐- Bangla (Native), English (Fluent)
+- 🔗 - Linkedin
+  - Email
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
