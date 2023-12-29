@@ -1,5 +1,5 @@
 **Hi there** 👋
-### I am **Sumiya Chowdhury**
+## I am **Sumiya Chowdhury**
 
 A Bachelor student in IT at Centria University of Applied Sciences.  
 &emsp;<i>I enjoy problem-solving, have a strong passion for continuous learning, possess good listening and communication skills, and am welcoming towards new challenges.</i>  
