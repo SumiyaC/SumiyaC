@@ -1,18 +1,13 @@
 ### Hi there 👋
-I am **SumiyaC/SumiyaC**
+I am ##Sumiya Chowdhury
 
-As a Bachelor student in IT, I am actively seeking opportunities for practical experience. I enjoy problem-solving, have a strong passion for continuous learning, possess good listening and communication skills, and am welcoming towards new challenges. I am ready to work as a committed individual whenever required.
+A Bachelor student in IT at Centria UAS.
+  <i>I enjoy problem-solving, have a strong passion for continuous learning, possess good listening and communication skills, and am welcoming towards new challenges. I am ready to work as a committed individual      whenever required.</i>
 
-🚀- HTML, CSS, JavaScript, ReactJS, NodeJS, Python, Java, SQL, MongoDB, Figma, AI, MS Office
-- 🌐- Bangla (Native), English (Fluent)
-- 🔗 - Linkedin
-  - Email
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🚀<i>Skills:</i> HTML, CSS, JavaScript, ReactJS, NodeJS, Python, Java, Figma, Git, AI concepts, Agile methodology & MS Office tools. 
+- 🌱<i>Learning:</i> SQL, DevOps.
+- 🌐<i>Languages:</i>Bangla (Native), English (Fluent).
 
+📫 How to reach me: 
+- 🔗<i>Linkedin:</i> [Linkedin](linkedin.com/in/sumiya-chowdhury-01aa73248)
+- 📧<i>Email:</i> [Email](sumiya.chowdhury@centria.fi)
